@@ -21,7 +21,7 @@ public class SendemailApplicationTests {
      */
     @Test
     public void sendmail() {
-        mailService.sendSimpleMail("qj876@cummins.com", "主题：你好普通邮件", "内容：第一封邮件");
+        mailService.sendSimpleMail("l1212xiao@163.com", "主题：你好普通邮件", "内容：第一封邮件");
     }
 
     @Test
