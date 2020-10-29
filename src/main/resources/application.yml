@@ -2,7 +2,7 @@ spring:
   mail:
     host: smtp.qq.com
     username: 657488125@qq.com
-    password: wubzgyilfgtbbdjh
+    password: wubzgyilfgtbbdjh_xxxxxx
     properties.mail.smtp.port: 465
     from: 657488125@qq.com
     properties.mail.smtp.starttls.enable: true
